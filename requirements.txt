@@ -1,0 +1,8 @@
+langchain
+langchain-ollama
+langchain-text-splitters
+langgraph
+chromadb
+pdfplumber
+sentence-transformers
+requests

@@ -1,0 +1,2 @@
+[2026-04-02 00:25:10] ID=TEST_001 | Poste=Data Scientist — Python & Machine Learning | Entreprise=DataLab Lyon | ScoreRAG=0.680 | ScoreLLM=0.700 | ScoreFinal=0.688 | Décision=ACCEPTÉ | Fichier=TEST_001_20260402_002510_Data_Scientist__Python__Machine_Learning.txt
+[2026-04-02 00:26:12] ID=TEST_003 | Poste=Analyste Data Junior — BI & Reporting | Entreprise=RetailData | ScoreRAG=0.585 | ScoreLLM=0.850 | ScoreFinal=0.691 | Décision=ACCEPTÉ | Fichier=TEST_003_20260402_002612_Analyste_Data_Junior__BI__Reporting.txt

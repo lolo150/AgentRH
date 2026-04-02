@@ -1,0 +1,29 @@
+OFFRE DÉTECTÉE
+==============================================================================
+Date détection : 2026-04-02 00:25:10
+ID            : TEST_001
+Poste         : Data Scientist — Python & Machine Learning
+Entreprise    : DataLab Lyon
+Lieu          : Lyon 3ème (69)
+Contrat       : CDI
+Salaire       : 42 000 - 52 000 EUR/an
+URL           : https://francetravail.fr
+Score RAG     : 0.680
+Score LLM     : 0.700
+Score final   : 0.688
+Décision      : ACCEPTÉ
+Explication   : Le CV mentionne des compétences en Python, SQL, machine learning et visualisation, ce qui correspond à une partie de la description du poste. Cependant, il manque les compétences spécifiques requises (Python, scikit-learn, NLP) ainsi que la formation Bac+5 Data Science ou équivalent. Cela rend le CV un peu partiellement pertinent pour le poste.
+
+COMPÉTENCES : Python, Machine Learning, scikit-learn, SQL, NLP
+
+DESCRIPTION :
+Nous cherchons un Data Scientist maîtrisant Python, scikit-learn, pandas, et les techniques de Machine Learning supervisé et non supervisé. Expérience avec les LLMs et NLP appréciée. Formation Bac+5 Data Science ou équivalent. Bonne connaissance de SQL et des bases de données.
+
+ANALYSE LLM :
+{
+    "points_forts": ["Expérience en pipelines de données, analyse statistique"],
+    "points_manquants": ["Python, SQL, machine learning et visualisation", "Formation Bac+5 Data Science ou équivalent"],
+    "score": 70,
+    "decision": "ACCEPTÉ",
+    "explication": "Le CV mentionne des compétences en Python, SQL, machine learning et visualisation, ce qui correspond à une partie de la description du poste. Cependant, il manque les compétences spécifiques requises (Python, scikit-learn, NLP) ainsi que la formation Bac+5 Data Science ou équivalent. Cela rend le CV un peu partiellement pertinent pour le poste."
+}

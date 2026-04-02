@@ -1,0 +1,30 @@
+OFFRE DÉTECTÉE
+==============================================================================
+Date détection : 2026-04-02 00:26:12
+ID            : TEST_003
+Poste         : Analyste Data Junior — BI & Reporting
+Entreprise    : RetailData
+Lieu          : Lyon 2ème (69)
+Contrat       : CDI
+Salaire       : 30 000 - 36 000 EUR/an
+URL           : https://francetravail.fr
+Score RAG     : 0.585
+Score LLM     : 0.850
+Score final   : 0.691
+Décision      : ACCEPTÉ
+Explication   : Le CV présente des compétences clés pour le poste d'Analyste Data Junior — BI & Reporting, notamment une excellente gestion du temps sous pression et la capacité à exécuter des requêtes SQL avancées. Cependant, il manque quelques compétences essentielles telles que la détermination élevée et la persévérance face aux défis, ainsi que les compétences en concentration et efficacité dans l'exécution de doublons avant intégration.
+
+COMPÉTENCES : SQL, Power BI, Excel, Python débutant
+
+DESCRIPTION :
+Profil junior accepté (0-2 ans). Missions : extraction SQL, création de tableaux de bord Power BI, analyse de données retail. Maîtrise Excel avancé. Formation Master Data ou Statistiques.
+
+ANALYSE LLM :
+{
+    "points_forts": ["Excellente gestion du temps sous pression", "Rédaction et exécution de requêtes SQL avancées pour l’analyse et le reporting"],
+    "points_manquants": ["Détermination élevée et persévérance face aux défis", "Fo rte concentration et efficacité dans l'exé",
+    "doublons avant intégration", "Fo rate concentration et efficacité dans l’exécution"],
+    "score": 85,
+    "decision": "ACCEPTÉ",
+    "explication": "Le CV présente des compétences clés pour le poste d'Analyste Data Junior — BI & Reporting, notamment une excellente gestion du temps sous pression et la capacité à exécuter des requêtes SQL avancées. Cependant, il manque quelques compétences essentielles telles que la détermination élevée et la persévérance face aux défis, ainsi que les compétences en concentration et efficacité dans l'exécution de doublons avant intégration."
+}

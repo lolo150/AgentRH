@@ -1,0 +1,89 @@
+{
+  "offres_vues": [
+    "TEST_001",
+    "TEST_004",
+    "TEST_003",
+    "TEST_005",
+    "TEST_006"
+  ],
+  "offres_signalees": [
+    "TEST_001",
+    "TEST_003"
+  ],
+  "offres_detectees": [
+    "TEST_001",
+    "TEST_003"
+  ],
+  "historique": [
+    {
+      "date": "2026-04-02 00:25:11",
+      "type": "DETECTION",
+      "offre_id": "TEST_001",
+      "titre": "Data Scientist — Python & Machine Learning",
+      "entreprise": "DataLab Lyon",
+      "decision": "ACCEPTÉ",
+      "score_rag": 0.68,
+      "score_final": 0.688
+    },
+    {
+      "date": "2026-04-02 00:25:11",
+      "type": "ANALYSE",
+      "offre_id": "TEST_001",
+      "titre": "Data Scientist — Python & Machine Learning",
+      "entreprise": "DataLab Lyon",
+      "decision": "ACCEPTÉ",
+      "score_rag": 0.68,
+      "score_final": 0.688
+    },
+    {
+      "date": "2026-04-02 00:25:11",
+      "type": "ANALYSE",
+      "offre_id": "TEST_004",
+      "titre": "Medecin",
+      "entreprise": "RetailData",
+      "decision": "JE NE SAIS PAS",
+      "score_rag": 0.04,
+      "score_final": 0.022
+    },
+    {
+      "date": "2026-04-02 00:26:13",
+      "type": "DETECTION",
+      "offre_id": "TEST_003",
+      "titre": "Analyste Data Junior — BI & Reporting",
+      "entreprise": "RetailData",
+      "decision": "ACCEPTÉ",
+      "score_rag": 0.585,
+      "score_final": 0.691
+    },
+    {
+      "date": "2026-04-02 00:26:13",
+      "type": "ANALYSE",
+      "offre_id": "TEST_003",
+      "titre": "Analyste Data Junior — BI & Reporting",
+      "entreprise": "RetailData",
+      "decision": "ACCEPTÉ",
+      "score_rag": 0.585,
+      "score_final": 0.691
+    },
+    {
+      "date": "2026-04-02 00:26:48",
+      "type": "ANALYSE",
+      "offre_id": "TEST_005",
+      "titre": "footbaleur",
+      "entreprise": "OM",
+      "decision": "REFUSÉ",
+      "score_rag": 0.386,
+      "score_final": 0.224
+    },
+    {
+      "date": "2026-04-02 00:26:48",
+      "type": "ANALYSE",
+      "offre_id": "TEST_006",
+      "titre": "Avocat",
+      "entreprise": "barrot",
+      "decision": "JE NE SAIS PAS",
+      "score_rag": 0.034,
+      "score_final": 0.019
+    }
+  ]
+}
