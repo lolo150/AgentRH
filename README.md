@@ -211,7 +211,7 @@ Les principaux paramètres se trouvent dans `config.py`.
 ### Modèle LLM
 
 ```python
-MODELE_LLM = "qwen2.5:1.5b"
+MODELE_LLM = "qwen2.5:7b"
 URL_OLLAMA = "http://localhost:11434"
 ```
 
